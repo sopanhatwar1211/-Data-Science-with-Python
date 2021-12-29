@@ -104,14 +104,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>Data-Science-with-Python/README.md at main · pranav2901/Data-Science-with-Python</title>
+  <title>Data-Science-with-Python/hc.py at main · pranav2901/Data-Science-with-Python</title>
     <meta name="description" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f0f50e32982fb2499c85a8faa226cf7214c8799c5978065b56c1d98e960a6314/pranav2901/Data-Science-with-Python" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Data-Science-with-Python/README.md at main · pranav2901/Data-Science-with-Python" /><meta name="twitter:description" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/f0f50e32982fb2499c85a8faa226cf7214c8799c5978065b56c1d98e960a6314/pranav2901/Data-Science-with-Python" /><meta property="og:image:alt" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Data-Science-with-Python/README.md at main · pranav2901/Data-Science-with-Python" /><meta property="og:url" content="https://github.com/pranav2901/Data-Science-with-Python" /><meta property="og:description" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/f0f50e32982fb2499c85a8faa226cf7214c8799c5978065b56c1d98e960a6314/pranav2901/Data-Science-with-Python" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Data-Science-with-Python/hc.py at main · pranav2901/Data-Science-with-Python" /><meta name="twitter:description" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/f0f50e32982fb2499c85a8faa226cf7214c8799c5978065b56c1d98e960a6314/pranav2901/Data-Science-with-Python" /><meta property="og:image:alt" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Data-Science-with-Python/hc.py at main · pranav2901/Data-Science-with-Python" /><meta property="og:url" content="https://github.com/pranav2901/Data-Science-with-Python" /><meta property="og:description" content="Contribute to pranav2901/Data-Science-with-Python development by creating an account on GitHub." />
     
 
 
@@ -119,11 +119,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69752150/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTc1MjE1MCwicyI6ODAyNzE4MjQxLCJjIjoxNzkzNzM2MzIxLCJ0IjoxNjQwNzYzODMyfQ==--380cd81097322cfdcea0280d58bb4da883cb553e2dcce849b0dee5785d69c29d" data-refresh-url="/_alive" data-session-id="f01cd32b25a4e4e80aca2c04e616a90a8d20ce209b4f9c94099af767e92af57c">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/69752150/ws?session=eyJ2IjoiVjMiLCJ1Ijo2OTc1MjE1MCwicyI6ODAyNzE4MjQxLCJjIjozMTYyNDcyNTkzLCJ0IjoxNjQwNzYzODY0fQ==--1b7e2cfc8e19afd19bf6df28cd90b220f2513002e1d994b2a4324b76d29c65b3" data-refresh-url="/_alive" data-session-id="f01cd32b25a4e4e80aca2c04e616a90a8d20ce209b4f9c94099af767e92af57c">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-9c817d86.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="4080:4E0E:878C88:9C4522:61CC11B7" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f7bc1a9973c5cb341821c7614a12867dd55ea9a99324a3cf7762e7b49a55a954" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9wcmFuYXYyOTAxL0RhdGEtU2NpZW5jZS13aXRoLVB5dGhvbiIsInJlcXVlc3RfaWQiOiI0MDgwOjRFMEU6ODc4Qzg4OjlDNDUyMjo2MUNDMTFCNyIsInZpc2l0b3JfaWQiOiIyNjg0MjU2MDY5NDQ4MDYwODI4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="4c118f5da292114601160abad567283ff88ae9f867a08993eb3f43cdd6eaeb9e" data-pjax-transient="true" />
+  <meta name="request-id" content="4080:4E0E:8798B7:9C527D:61CC11D7" data-pjax-transient="true" /><meta name="html-safe-nonce" content="f7bc1a9973c5cb341821c7614a12867dd55ea9a99324a3cf7762e7b49a55a954" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9wcmFuYXYyOTAxL0RhdGEtU2NpZW5jZS13aXRoLVB5dGhvbiIsInJlcXVlc3RfaWQiOiI0MDgwOjRFMEU6ODc5OEI3OjlDNTI3RDo2MUNDMTFENyIsInZpc2l0b3JfaWQiOiIyNjg0MjU2MDY5NDQ4MDYwODI4IiwicmVnaW9uX2VkZ2UiOiJhcC1zb3V0aC0xIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true" /><meta name="visitor-hmac" content="feec68e53295d829f384936e33288fc635c21e1152622c655d1bc7446021f5a3" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:396328380" data-pjax-transient>
 
@@ -162,7 +162,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="ZmI2Yjk1MDkzMGYzYWNlMDA4MGE4ZjFiZjkxYWYxMzY5MWYxYmU2MGFkMWMzMjNlOTM4YmQyMWU5YmMzM2Y1ZXx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIyOS4xODAuNTIiLCJyZXF1ZXN0X2lkIjoiNDA4MDo0RTBFOjg3OEM4ODo5QzQ1MjI6NjFDQzExQjciLCJ0aW1lc3RhbXAiOjE2NDA3NjM4MzIsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YjgwMTQ1M2JiMzA1NGMzMWQ1YmMzYTliYjE3OThiZDg0ZjllZmVhNTIyYTkxZmFjZjgxYzFkOTBlZDcxNzFhYXx7InJlbW90ZV9hZGRyZXNzIjoiMTE3LjIyOS4xODAuNTIiLCJyZXF1ZXN0X2lkIjoiNDA4MDo0RTBFOjg3OThCNzo5QzUyN0Q6NjFDQzExRDciLCJ0aW1lc3RhbXAiOjE2NDA3NjM4NjQsImhvc3QiOiJnaXRodWIuY29tIn0=">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -182,7 +182,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -223,7 +223,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="51b8439ed19a45176265e7ca3ea0e3df8ed3462d33adfcd61d81cd36ff8b986d" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="c7b0004a64901f43ab9dce6e71f96eac7c8fc23f004334935057020d76ea9616" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -267,7 +267,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="NnDRLwVW+RPAJ55p8nQl1haOIMz6nNGo4dIibYrQJQK0wi0Tin/g7dFYsMhKh8JF37wXN/2ytl7luQsljLkd5A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="f0wwjF7gExc8h6C7bw/KV42U7rlr59XYmaTtI+hM81v9/syw0ckK6S34jhrX/C3ERKbZQmzJsi6dz8Rr7iXLvQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -471,7 +471,7 @@
     <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:workspaces context:user" data-selected-links="/codespaces /codespaces" href="/codespaces">
       Codespaces
 </a>
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;sopanhatwar1211&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="14ba52625c67281ce0cb71706f4f4f91d7935c42f512b8deb0524ce793e54224" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;sopanhatwar1211&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="80bcee31d3b345bb9d963ffad4db04d3524c890d30133754f537f083dc307007" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" href="/settings/profile">
       Settings
@@ -480,12 +480,12 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/69752150?s=40&amp;v=4" width="20" height="20" alt="@sopanhatwar1211" />
       sopanhatwar1211
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iA5aJYxIUwZE47I5bzdtgvxIHfW7jyXFkemBEecFOXrdex4mFc142zYzPFCrmn1wuFb0hoyOHqOsi6Z1j2dyqQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="nYHK5WpI6UIvqO2engu9eEOzs9U7u9fo1Gxj+YL+xLTI9I7m883Cn114Y/dapq2KB61apgy67I7pDkSd6pyPZw==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
         style="padding-left: 2px;"
-        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="2327010089ebf2f0e33d96415a7930ea9df616af8469fa31ffe83544ee5f43a0" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
+        data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="ca9bb62dafdbe017f3e825d07367c02cb5b377b35d1642d5ec84cd8752efc85e" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;sign out&quot;,&quot;label&quot;:&quot;icon:logout&quot;}"
       >
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sign-out v-align-middle">
     <path fill-rule="evenodd" d="M2 2.75C2 1.784 2.784 1 3.75 1h2.5a.75.75 0 010 1.5h-2.5a.25.25 0 00-.25.25v10.5c0 .138.112.25.25.25h2.5a.75.75 0 010 1.5h-2.5A1.75 1.75 0 012 13.25V2.75zm10.44 4.5H6.75a.75.75 0 000 1.5h5.69l-1.97 1.97a.75.75 0 101.06 1.06l3.25-3.25a.75.75 0 000-1.06l-3.25-3.25a.75.75 0 10-1.06 1.06l1.97 1.97z"></path>
@@ -502,7 +502,7 @@
   href="https://github.com/"
   data-hotkey="g d"
   aria-label="Homepage "
-  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="51b8439ed19a45176265e7ca3ea0e3df8ed3462d33adfcd61d81cd36ff8b986d" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
+  data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="c7b0004a64901f43ab9dce6e71f96eac7c8fc23f004334935057020d76ea9616" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;go to dashboard&quot;,&quot;label&quot;:&quot;icon:logo&quot;}"
 >
   <svg height="32" aria-hidden="true" viewBox="0 0 16 16" version="1.1" width="32" data-view-component="true" class="octicon octicon-mark-github v-align-middle">
     <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path>
@@ -518,7 +518,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Njk3NTIxNTAiLCJ0IjoxNjQwNzYzODMyfQ==--65c48637235f505d1f0a6b40c2b60e30d55a8e1a0830867b96e81018acf0bbed">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6Njk3NTIxNTAiLCJ0IjoxNjQwNzYzODY0fQ==--bfa96f9c550ba74e011ce980229c84988b4cc36641cf841554617ba8f171c230">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -541,7 +541,7 @@
   <summary
     class="Header-link"
     aria-label="Create new…"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="98434ecf38ac71dccceacd05da18a5586c492d36ad55b14fa5d07e9012fcae22" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="cf031b5b5cebd9f17c7171c3dda857ad28566b1c90730f7bbd0e8bf8fac12e40" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;create new&quot;,&quot;label&quot;:&quot;icon:add&quot;}"
   >
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-plus">
     <path fill-rule="evenodd" d="M7.75 2a.75.75 0 01.75.75V7h4.25a.75.75 0 110 1.5H8.5v4.25a.75.75 0 11-1.5 0V8.5H2.75a.75.75 0 010-1.5H7V2.75A.75.75 0 017.75 2z"></path>
@@ -579,7 +579,7 @@
   <summary
     class="Header-link"
     aria-label="View profile and more"
-    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="b472a4d08b3a2d25f0c86ff7d4d1ebe1d7afd52da17d2511a1c291fa5fd53361" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
+    data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="5fb08b9762f8c07ddcf6cdefc676e42060e8fd28eddc608f07041b437e532c4d" data-analytics-event="{&quot;category&quot;:&quot;Header&quot;,&quot;action&quot;:&quot;show menu&quot;,&quot;label&quot;:&quot;icon:avatar&quot;}"
   >
     <img src="https://avatars.githubusercontent.com/u/69752150?s=40&amp;v=4" alt="@sopanhatwar1211" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
@@ -651,14 +651,14 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3"
-      data-return-to=/pranav2901/Data-Science-with-Python/blob/main/README.md
+      data-return-to=/pranav2901/Data-Science-with-Python/blob/main/hc.py
       data-user-id="69752150"
       >
-      <input type="hidden" value="0kdMOvv/I1awlmWqaPLAlrxmhGUx8BKlzTUFUW42ub9/JAzThxTOdcRYa9F/RgG7UyOcPWKl6pRmU+RPJQ9t8g==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="bSoxMDGbaIy0bY5QPbo69inTBhvW9j1I6S3O3LNHr3zASXHZTXCFr8CjgCsqDvvbxpYeQ4WjxXlCSy/C+H57MQ==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-2Jz3lq/Gk0f8RePMFf+bUCfw6LwZ3nXfh3AQmMFOUj5cIW/rCeZcWRFO/q0l00bbLMcdXkpDj6KvP9Ny2qh8QA==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-d89cf796.js&quot;></script>
 " aria-hidden="true" data-url="https://github.com"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="/wku9ShmfpDyZbrDNlVlEPvpxM1YOfZT4OiMeJQ31pumBHAbdw2y9heYUY3xSE8V0Gf3vjXzq2X+FGbk3l/E/w==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="8Di3tjHvorBLb90/yjYUpZKkVpSoWrrnNHoKGh4pDEmpNelYboRu1q6SNnENKz6guSpl58WQ59EqhuCGVEEeLQ==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1296,7 +1296,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="72d349776efb0482e793c7ac02d840f2652ca759d92adf3401881e633fea66e9" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
+      <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="4558c9ef4f70b423541d01eaaf4b7b8759deb1ffa91024de085845538b2c0e9d" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">  <span data-menu-button>
             <span
               hidden
               
@@ -1348,7 +1348,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QVcjmufV3WQHItSQa63opVar1mle1eO0b/vGrW30nM6ze+0df2GaA1TfvsaAvZUv/ZTmx2zGHKjJkTv7/E4tBQ==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="TNqaJUZcECnZidwKGYIr/XLJ/8mzRNK9CSZWZX2REFe+9lSi3uhXTop0tlzyklZ32fbPZ4FXLaGvTKsz7CuhnA==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="396328380">
 
@@ -1461,7 +1461,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aR5nIjD5qqKIOzko3gTTKM1Op8IakTinw/9ZMRI42s2bMqmlqE3txdvGU341FK6iZnGXbCiCx7tllaRng4JrBg==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WSZlFuAeVrv97jr2ucdcsSlNXuemGh0p5jvBKiwP/6KrCquReKoR3K4TUKBS1yE7gnJuSZQJ4jVAUTx8vbVOaQ==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="396328380">
 
@@ -1603,8 +1603,8 @@
 
 
     <li>
-              <form class="btn-with-count" action="/pranav2901/Data-Science-with-Python/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="CG2JMJOsDBvopVRooUjExJZy6BHKenvKyeZZevq8rVE4XhEu8CWgMmSLj6C4P7YqGrOqGxzg5/othN5vVRyhDg==" autocomplete="off" />
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="8039798aca5514e3ab92e871b70b6bf206566416e345659f96ebe876b563d558" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of pranav2901/Data-Science-with-Python to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+              <form class="btn-with-count" action="/pranav2901/Data-Science-with-Python/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="SOuk/8nOGuhc2xaJYy3sPPS9XfnvIQrwWLmLUyihRy142Dzhqke2wdD1zUF6Wp7SeHwf8zm7lsC82wxGhwFLcg==" autocomplete="off" />
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="ff705bcc0fed07d25a550cfaaa4456729551a05253834637102a2677cd349011" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of pranav2901/Data-Science-with-Python to your account" type="submit" data-view-component="true" class="btn-sm btn">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
             <span id="repo-network-counter" data-pjax-replace="true" title="5" data-view-component="true" class="Counter">5</span>
@@ -1615,23 +1615,23 @@
     <li>
           
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container on BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto" action="/pranav2901/Data-Science-with-Python/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BDvigGHmQXLA7vwJjOy1I/4+eFgjf7FWNePUYDoFc+Hf11hXs6KU+r2OHeuCebc4ePtcX9ToRs8j0J45pZ9rdw==" autocomplete="off" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto" action="/pranav2901/Data-Science-with-Python/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="F7OMEZVF7jbA7t7WfOr5AWX/o+M1SAi9ENRkc9EJFJ/MXzbGRwE7vr2OPzRyf/sa4zqH5MLf/yQG5y4qTpMMCQ==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="f7d722e3c252b3b0bafc7b9c632e2f6f4b3d2fde13b69982f412fb24ecf9d6a7" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="b88f963270e0fc8b3dfb1de76e8fa7db1fd5b1df89fdf91ab269e24b6ef6b418" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="81 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="81" data-view-component="true" class="Counter js-social-count">81</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/pranav2901/Data-Science-with-Python/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="mswEnsrq/o41RzWWlnQVZcdvn1+mEkcApiHpFlEZulSnNG0W5xdvt+yHLGa9Gpb/IpWu8jrUwwWR4Q3e0Fu0Qw==" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" action="/pranav2901/Data-Science-with-Python/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="WEOOr6KGOviXjWyvklPMNOKWEkc2uxc0aueAOgztJa1lu+cnj3urwU5NdV+5PU+uB2wj6qp9kzFdJ2Tyja8rug==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="0850e783226ab19d05d7a727ef5a597849b1a4363e9239c2f9610b8ece5b752b" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+      <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="42a223d3873236dab4a716062d61f893fc0927649a64e8ce344a6b90a8f11664" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
 </span>          <span id="repo-stars-counter-star" aria-label="81 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" title="81" data-view-component="true" class="Counter js-social-count">81</span>
 </button></form>
-      <details id="details-2de97f" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
+      <details id="details-b7434d" data-view-component="true" class="details-reset details-overlay BtnGroup-parent js-user-list-menu d-inline-block position-relative">
       <summary aria-label="Add this repository to a list" data-view-component="true" class="btn-sm btn BtnGroup-item px-2 float-none">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
     <path d="M4.427 7.427l3.396 3.396a.25.25 0 00.354 0l3.396-3.396A.25.25 0 0011.396 7H4.604a.25.25 0 00-.177.427z"></path>
 </svg>
@@ -1639,7 +1639,7 @@
   <div class="Box-header">
     <h2 class="Box-title">Create list</h2>
   </div>
-  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/sopanhatwar1211/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="QDFT7CpTHLgVzyY64rGAogOK/VQjZcXjcUV2BcvnV2i2ehRsGnKsGm6ZGixIAyxMsjnZTMbmVkO6ApPUrq21ow==" autocomplete="off" />
+  <form class="Box-body d-flex flex-column p-3 js-user-list-form" action="/stars/sopanhatwar1211/lists" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="xH7tnT4vGv3TDnvdJlzn2Zy2SoWKPimRX70+t71JZr8yNaodDg6qX6hYR8uM7ks3LQVunW+9ujGU+ttm2AOEdA==" autocomplete="off" />
         <p class="color-fg-subtle mb-3">Create a list to organize your starred repositories.</p>
       <input type="hidden" name="repository_id" value="{{ repositoryId }}">
 
@@ -1659,7 +1659,7 @@
           required
         >
       </text-expander>
-      <input type="hidden" value="pnJ2lSoBHWOpkRWWIlb55dJzmESWu7QCQFxJSK1sfzv52IM688GdjHF74ALkVPFF16+v01UiH00/E9yqQxShxA==" data-csrf="true" />
+      <input type="hidden" value="6dM8t19iBboGhd21qk10f+msnUN4S6mBnZe2KyP9q+22eckYhqKFVd5vKCFsT3zf7HCq1LvSAs7i2CPJzYV1Eg==" data-csrf="true" />
     </auto-check>
     <p
       class="note error position-relative js-user-list-error"
@@ -1723,13 +1723,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-2de97f">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-b7434d">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-2de97f"
+        id="filter-menu-b7434d"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1933,7 +1933,7 @@
 
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/pranav2901/Data-Science-with-Python/blob/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/README.md">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/pranav2901/Data-Science-with-Python/blob/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/hc.py">Permalink</a>
 
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
@@ -2019,7 +2019,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/pranav2901/Data-Science-with-Python/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/pranav2901/Data-Science-with-Python/blob/{{ urlEncodedRefName }}/hc.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2059,7 +2059,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/pranav2901/Data-Science-with-Python/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/pranav2901/Data-Science-with-Python/blob/{{ urlEncodedRefName }}/hc.py" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2090,7 +2090,48 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/pranav2901/Data-Science-with-Python"><span>Data-Science-with-Python</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/pranav2901/Data-Science-with-Python"><span>Data-Science-with-Python</span></a></span></span><span class="separator">/</span><strong class="final-path">hc.py</strong>
+          <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
+  <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:396328380,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;Python&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="26ba8b1a9f60396e6529baf7db08cdf15d86bb00b86cea99c128668ed71e702d" data-view-component="true" class="Link--secondary css-truncate btn-link">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
+</svg>
+    <span data-menu-button>Jump to</span>
+    <span class="dropdown-caret"></span>
+</summary>  <details-menu class="SelectMenu SelectMenu--hasFilter" role="menu">
+    <div class="SelectMenu-modal">
+      <header class="SelectMenu-header">
+        <span class="SelectMenu-title">Code definitions</span>
+        <button class="SelectMenu-closeButton" type="button" data-toggle-for="jumpto-symbol-select-menu">
+          <svg aria-label="Close menu" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+        </button>
+      </header>
+        <div class="SelectMenu-filter">
+          <input
+            class="SelectMenu-input form-control js-filterable-field"
+            id="jumpto-symbols-filter-field"
+            type="text"
+            autocomplete="off"
+            spellcheck="false"
+            autofocus
+            placeholder="Filter definitions"
+            aria-label="Filter definitions">
+        </div>
+      <div class="SelectMenu-list">
+        <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
+        </div>
+      </div>
+      <footer class="SelectMenu-footer">
+        <div class="d-flex flex-justify-between">
+          Code navigation index up-to-date
+          <svg class="octicon octicon-dot-fill text-green" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
+        </div>
+      </footer>
+    </div>
+  </details-menu>
+</details>
+
       </h2>
       <a href="/pranav2901/Data-Science-with-Python/find/main"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -2106,7 +2147,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="0dd71c0a54317af06cbc901428499295caabf1ca40dbf07adb8846f17dbffcbb" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/pranav2901/Data-Science-with-Python/find/main">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="53775f9762e134f29b4b36a7ee7d2bdfbcc7678717e8fdfc339b7ce42ae5a7da" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/pranav2901/Data-Science-with-Python/find/main">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>            </li>
@@ -2116,15 +2157,21 @@
                   <span class="text-small color-fg-muted" aria-hidden="true">L</span>
                 </span>
 </button>            </li>
+            <li data-toggle-for="blob-more-options-details">
+              <button data-toggle-for="jumpto-symbol-select-menu" type="button" data-view-component="true" class="dropdown-item btn-link">  <span class="d-flex flex-items-baseline">
+                  <span class="flex-auto">Go to definition</span>
+                  <span class="text-small color-fg-muted" aria-hidden="true">R</span>
+                </span>
+</button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="hc.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
-              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/pranav2901/Data-Science-with-Python/blob/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+              <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/pranav2901/Data-Science-with-Python/blob/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/hc.py" data-view-component="true" class="dropdown-item cursor-pointer">
     
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
@@ -2139,7 +2186,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/pranav2901/Data-Science-with-Python/contributors/main/README.md" class="commit-loader">
+      <include-fragment src="/pranav2901/Data-Science-with-Python/contributors/main/hc.py" class="commit-loader">
         <div class="Box-header d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2171,26 +2218,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      1 lines (1 sloc)
+      42 lines (34 sloc)
       <span class="file-info-divider"></span>
-    27 Bytes
+    1.55 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-    <a href="/pranav2901/Data-Science-with-Python/blob/main/README.md?plain=1" data-permalink-href="/pranav2901/Data-Science-with-Python/blob/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code mr-2">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>    <a href="/pranav2901/Data-Science-with-Python/blob/main/README.md" data-permalink-href="/pranav2901/Data-Science-with-Python/blob/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file mr-2">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v11.5c0 .138.112.25.25.25h8.5a.25.25 0 00.25-.25V6H9.75A1.75 1.75 0 018 4.25V1.5H3.75zm5.75.56v2.19c0 .138.112.25.25.25h2.19L9.5 2.06zM2 1.75C2 .784 2.784 0 3.75 0h5.086c.464 0 .909.184 1.237.513l3.414 3.414c.329.328.513.773.513 1.237v8.086A1.75 1.75 0 0112.25 15h-8.5A1.75 1.75 0 012 13.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-      <a href="/pranav2901/Data-Science-with-Python/raw/main/README.md" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
+      <a href="/pranav2901/Data-Science-with-Python/raw/main/hc.py" id="raw-url" data-view-component="true" class="btn-sm btn BtnGroup-item">  Raw
 </a>
-        <a href="/pranav2901/Data-Science-with-Python/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
+        <a href="/pranav2901/Data-Science-with-Python/blame/main/hc.py" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">  Blame
 </a>
     </div>
 
@@ -2205,11 +2244,11 @@
 </svg>
           </a>
 
-        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/pranav2901/Data-Science-with-Python/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+        <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/pranav2901/Data-Science-with-Python/raw/main/hc.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
 
-  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="3b0241621953e4125be3a4e9224de9879d610ea02edf3c73f765ff71e4af9439" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">            <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="5a572a68bde8e5a07599fab9c3f4eb09e215ed1ef99305e27822a8c096ff9cc6" aria-label="Copy raw contents">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2232,7 +2271,7 @@
             </span>
 </span>
 </remote-clipboard-copy>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/pranav2901/Data-Science-with-Python/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/2/7igDg9dazDtujV5hNaa47NRyOjKBdbr3JOy/wIOR4Ybg5QeENNDykWAkw4AfPlzYfTmmK9NK0cFHtn8KlNw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/pranav2901/Data-Science-with-Python/edit/main/hc.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nlt0nFD38unaWHX5x2YOPvrpHwLzgyuRa6LAkQ4oaeBG6/fbLsln8VDvWzDKintu3GKe0ExDxeskDhO+peRmVQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
@@ -2240,7 +2279,7 @@
 </svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/pranav2901/Data-Science-with-Python/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fXJ6sXzFpvlBiMgHhJVxs9EHqyn7V6iBypphOSWU0KWNuojr92lYnktSmUplZkByUCjTaORrBgokvxQqY/Pfug==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/pranav2901/Data-Science-with-Python/delete/main/hc.py" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="esJR+v9gP6zLqoDuDxKZK9Xg1ZHaZgYSm1xCjayOHVma39XSA5v5nrGNBQZy1tpFwSnOPSeZWdKbPy6G4f+DWA==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2268,15 +2307,15 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/pranav2901/Data-Science-with-Python/raw/main/README.md">
+            <a class="dropdown-item" href="/pranav2901/Data-Science-with-Python/raw/main/hc.py">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/pranav2901/Data-Science-with-Python/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/pranav2901/Data-Science-with-Python/raw/main/hc.py" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="3b0241621953e4125be3a4e9224de9879d610ea02edf3c73f765ff71e4af9439">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:396328380,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="5a572a68bde8e5a07599fab9c3f4eb09e215ed1ef99305e27822a8c096ff9cc6">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2299,17 +2338,17 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/pranav2901/Data-Science-with-Python/blame/main/README.md">
+              <a class="dropdown-item" href="/pranav2901/Data-Science-with-Python/blame/main/hc.py">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/pranav2901/Data-Science-with-Python/edit/main/README.md">Edit file</a>
+                <a class="dropdown-item" href="/pranav2901/Data-Science-with-Python/edit/main/hc.py">Edit file</a>
               </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/pranav2901/Data-Science-with-Python/delete/main/README.md">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/pranav2901/Data-Science-with-Python/delete/main/hc.py">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2317,9 +2356,240 @@
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-data-science-with-python" class="anchor" aria-hidden="true" href="#data-science-with-python"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Data Science with Python</h1>
-</article>
+      
+  <div itemprop="text" class="Box-body p-0 blob-wrapper data type-python  gist-border-0">
+
+      
+<div class="js-check-bidi blob-code-content">
+  <template class="js-file-alert-template">
+  <div data-view-component="true" class="flash flash-warn flash-full d-flex flex-items-center">
+  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+  
+    <span>
+      This file contains bidirectional Unicode text that may be interpreted or compiled differently than what appears below. To review, open the file in an editor that reveals hidden Unicode characters.
+      <a href="https://github.co/hiddenchars" target="_blank">Learn more about bidirectional Unicode characters</a>
+    </span>
+
+
+  <div data-view-component="true" class="flash-action">        <a href="{{ revealButtonHref }}" data-view-component="true" class="btn-sm btn">  Show hidden characters
+</a>
+</div>
+</div></template>
+<template class="js-line-alert-template">
+  <span aria-label="This line has hidden Unicode characters" data-view-component="true" class="bidi-line-alert tooltipped tooltipped-e">
+    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert">
+    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
+</svg>
+</span></template>
+
+  <table class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="Python" data-tagsearch-path="hc.py">
+        <tr>
+          <td id="L1" class="blob-num js-line-number js-code-nav-line-number" data-line-number="1"></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-c># -*- coding: utf-8 -*-</span></td>
+        </tr>
+        <tr>
+          <td id="L2" class="blob-num js-line-number js-code-nav-line-number" data-line-number="2"></td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-s>&quot;&quot;&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L3" class="blob-num js-line-number js-code-nav-line-number" data-line-number="3"></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-s>Created on Tue Oct 19 19:56:10 2021</span></td>
+        </tr>
+        <tr>
+          <td id="L4" class="blob-num js-line-number js-code-nav-line-number" data-line-number="4"></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class=pl-s></span></td>
+        </tr>
+        <tr>
+          <td id="L5" class="blob-num js-line-number js-code-nav-line-number" data-line-number="5"></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class=pl-s>@author: Admin</span></td>
+        </tr>
+        <tr>
+          <td id="L6" class="blob-num js-line-number js-code-nav-line-number" data-line-number="6"></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line"><span class=pl-s>&quot;&quot;&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L7" class="blob-num js-line-number js-code-nav-line-number" data-line-number="7"></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Hierarchical Clustering</span></td>
+        </tr>
+        <tr>
+          <td id="L8" class="blob-num js-line-number js-code-nav-line-number" data-line-number="8"></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L9" class="blob-num js-line-number js-code-nav-line-number" data-line-number="9"></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Importing the libraries</span></td>
+        </tr>
+        <tr>
+          <td id="L10" class="blob-num js-line-number js-code-nav-line-number" data-line-number="10"></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>matplotlib</span>.<span class=pl-s1>pyplot</span> <span class=pl-k>as</span> <span class=pl-s1>plt</span></td>
+        </tr>
+        <tr>
+          <td id="L11" class="blob-num js-line-number js-code-nav-line-number" data-line-number="11"></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>pandas</span> <span class=pl-k>as</span> <span class=pl-s1>pd</span></td>
+        </tr>
+        <tr>
+          <td id="L12" class="blob-num js-line-number js-code-nav-line-number" data-line-number="12"></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L13" class="blob-num js-line-number js-code-nav-line-number" data-line-number="13"></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Importing the dataset</span></td>
+        </tr>
+        <tr>
+          <td id="L14" class="blob-num js-line-number js-code-nav-line-number" data-line-number="14"></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>dataset</span> <span class=pl-c1>=</span> <span class=pl-s1>pd</span>.<span class=pl-en>read_csv</span>(<span class=pl-s>&#39;F:/WORK/pyWork/pyData/Mall_Customers.csv&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L15" class="blob-num js-line-number js-code-nav-line-number" data-line-number="15"></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line"><span class=pl-v>X</span> <span class=pl-c1>=</span> <span class=pl-s1>dataset</span>.<span class=pl-s1>iloc</span>[:, [<span class=pl-c1>3</span>, <span class=pl-c1>4</span>]].<span class=pl-s1>values</span></td>
+        </tr>
+        <tr>
+          <td id="L16" class="blob-num js-line-number js-code-nav-line-number" data-line-number="16"></td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L17" class="blob-num js-line-number js-code-nav-line-number" data-line-number="17"></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Using the dendrogram to find the optimal number of clusters</span></td>
+        </tr>
+        <tr>
+          <td id="L18" class="blob-num js-line-number js-code-nav-line-number" data-line-number="18"></td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class=pl-k>import</span> <span class=pl-s1>scipy</span>.<span class=pl-s1>cluster</span>.<span class=pl-s1>hierarchy</span> <span class=pl-k>as</span> <span class=pl-s1>sch</span></td>
+        </tr>
+        <tr>
+          <td id="L19" class="blob-num js-line-number js-code-nav-line-number" data-line-number="19"></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>dendrogram</span> <span class=pl-c1>=</span> <span class=pl-s1>sch</span>.<span class=pl-en>dendrogram</span>(<span class=pl-s1>sch</span>.<span class=pl-en>linkage</span>(<span class=pl-v>X</span>, <span class=pl-s1>method</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;ward&#39;</span>))</td>
+        </tr>
+        <tr>
+          <td id="L20" class="blob-num js-line-number js-code-nav-line-number" data-line-number="20"></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>title</span>(<span class=pl-s>&#39;Dendrogram&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L21" class="blob-num js-line-number js-code-nav-line-number" data-line-number="21"></td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&#39;Customers&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L22" class="blob-num js-line-number js-code-nav-line-number" data-line-number="22"></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&#39;Euclidean distances&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L23" class="blob-num js-line-number js-code-nav-line-number" data-line-number="23"></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L24" class="blob-num js-line-number js-code-nav-line-number" data-line-number="24"></td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#cut the dendrogram tree with a horizontal line at a height where the line can traverse </span></td>
+        </tr>
+        <tr>
+          <td id="L25" class="blob-num js-line-number js-code-nav-line-number" data-line-number="25"></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class=pl-c>#without intersecting the merging point. Hence, we can see the ideal no. of clusters is 5</span></td>
+        </tr>
+        <tr>
+          <td id="L26" class="blob-num js-line-number js-code-nav-line-number" data-line-number="26"></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L27" class="blob-num js-line-number js-code-nav-line-number" data-line-number="27"></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Fitting Hierarchical Clustering to the dataset</span></td>
+        </tr>
+        <tr>
+          <td id="L28" class="blob-num js-line-number js-code-nav-line-number" data-line-number="28"></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line"><span class=pl-k>from</span> <span class=pl-s1>sklearn</span>.<span class=pl-s1>cluster</span> <span class=pl-k>import</span> <span class=pl-v>AgglomerativeClustering</span></td>
+        </tr>
+        <tr>
+          <td id="L29" class="blob-num js-line-number js-code-nav-line-number" data-line-number="29"></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>hc</span> <span class=pl-c1>=</span> <span class=pl-v>AgglomerativeClustering</span>(<span class=pl-s1>n_clusters</span> <span class=pl-c1>=</span> <span class=pl-c1>5</span>, <span class=pl-s1>affinity</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;euclidean&#39;</span>, <span class=pl-s1>linkage</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;ward&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L30" class="blob-num js-line-number js-code-nav-line-number" data-line-number="30"></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>y_hc</span> <span class=pl-c1>=</span> <span class=pl-s1>hc</span>.<span class=pl-en>fit_predict</span>(<span class=pl-v>X</span>)</td>
+        </tr>
+        <tr>
+          <td id="L31" class="blob-num js-line-number js-code-nav-line-number" data-line-number="31"></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L32" class="blob-num js-line-number js-code-nav-line-number" data-line-number="32"></td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class=pl-c># Visualising the clusters</span></td>
+        </tr>
+        <tr>
+          <td id="L33" class="blob-num js-line-number js-code-nav-line-number" data-line-number="33"></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>scatter</span>(<span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>0</span>, <span class=pl-c1>0</span>], <span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>0</span>, <span class=pl-c1>1</span>], <span class=pl-s1>s</span> <span class=pl-c1>=</span> <span class=pl-c1>100</span>, <span class=pl-s1>c</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;red&#39;</span>, <span class=pl-s1>label</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;Cluster 1&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L34" class="blob-num js-line-number js-code-nav-line-number" data-line-number="34"></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>scatter</span>(<span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>1</span>, <span class=pl-c1>0</span>], <span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>1</span>, <span class=pl-c1>1</span>], <span class=pl-s1>s</span> <span class=pl-c1>=</span> <span class=pl-c1>100</span>, <span class=pl-s1>c</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;blue&#39;</span>, <span class=pl-s1>label</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;Cluster 2&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L35" class="blob-num js-line-number js-code-nav-line-number" data-line-number="35"></td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>scatter</span>(<span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>2</span>, <span class=pl-c1>0</span>], <span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>2</span>, <span class=pl-c1>1</span>], <span class=pl-s1>s</span> <span class=pl-c1>=</span> <span class=pl-c1>100</span>, <span class=pl-s1>c</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;green&#39;</span>, <span class=pl-s1>label</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;Cluster 3&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L36" class="blob-num js-line-number js-code-nav-line-number" data-line-number="36"></td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>scatter</span>(<span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>3</span>, <span class=pl-c1>0</span>], <span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>3</span>, <span class=pl-c1>1</span>], <span class=pl-s1>s</span> <span class=pl-c1>=</span> <span class=pl-c1>100</span>, <span class=pl-s1>c</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;cyan&#39;</span>, <span class=pl-s1>label</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;Cluster 4&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L37" class="blob-num js-line-number js-code-nav-line-number" data-line-number="37"></td>
+          <td id="LC37" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>scatter</span>(<span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>4</span>, <span class=pl-c1>0</span>], <span class=pl-v>X</span>[<span class=pl-s1>y_hc</span> <span class=pl-c1>==</span> <span class=pl-c1>4</span>, <span class=pl-c1>1</span>], <span class=pl-s1>s</span> <span class=pl-c1>=</span> <span class=pl-c1>100</span>, <span class=pl-s1>c</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;magenta&#39;</span>, <span class=pl-s1>label</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;Cluster 5&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L38" class="blob-num js-line-number js-code-nav-line-number" data-line-number="38"></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L39" class="blob-num js-line-number js-code-nav-line-number" data-line-number="39"></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>title</span>(<span class=pl-s>&#39;Clusters of customers&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L40" class="blob-num js-line-number js-code-nav-line-number" data-line-number="40"></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>xlabel</span>(<span class=pl-s>&#39;Annual Income (k$)&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L41" class="blob-num js-line-number js-code-nav-line-number" data-line-number="41"></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>ylabel</span>(<span class=pl-s>&#39;Spending Score (1-100)&#39;</span>)</td>
+        </tr>
+        <tr>
+          <td id="L42" class="blob-num js-line-number js-code-nav-line-number" data-line-number="42"></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line"><span class=pl-s1>plt</span>.<span class=pl-en>legend</span>()</td>
+        </tr>
+  </table>
+</div>
+
+  <details class="details-reset details-overlay BlobToolbar position-absolute js-file-line-actions dropdown d-none" aria-hidden="true">
+    <summary class="btn-octicon ml-0 px-2 p-0 color-bg-default border color-border-default rounded-1" aria-label="Inline file action toolbar">
+      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
+    <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
+</svg>
+    </summary>
+    <details-menu>
+
+      <ul class="BlobToolbar-dropdown dropdown-menu dropdown-menu-se ml-2 mt-2"
+      style="width:185px"
+      >
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-lines" style="cursor:pointer;" aria-label="Copy lines">
+            Copy lines
+          </clipboard-copy>
+        </li>
+        <li>
+          <clipboard-copy role="menuitem" class="dropdown-item" id="js-copy-permalink" style="cursor:pointer;" aria-label="Copy permalink">
+            Copy permalink
+          </clipboard-copy>
+        </li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/pranav2901/Data-Science-with-Python/blame/8f971fa366a7e1fe70ed90bf25777b0ff80428b0/hc.py">View git blame</a></li>
+          <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/pranav2901/Data-Science-with-Python/issues/new">Reference in new issue</a></li>
+      </ul>
+    </details-menu>
+  </details>
+
   </div>
 
     </div>
@@ -2376,16 +2646,16 @@
       </li>
     </ul>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-8 flex-justify-start flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="171c2b796510cb5926c2be9edd4b6b08c5cefc64dd6136cae454599e4216d35f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="43ff865c9e5d0bb865530cd3b35db7fb3b26852a42ab10238cd49dc8089887fd" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="ec552bc6ee63560cfe5d034f9f98b6eca7e6837e235f4276c32af11bd2e6eb7a" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="75de15d02078f031ccb59a34f88d81c45910f3da03cef385d9bc4665c1b67d24" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="cff9321a8470c48d454ffdb89de1dd04dbf01f8c93aac68501de67d14aab73fa" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;}">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="459b074ab3e0df15294843905be46f1f87bcc7a807e3a7699905dd438f607f87" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;}">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="23ba3a3511757913256fe9076344b00b4490bfbc9970ec5368801d1378e0bbb4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;}" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="5c25bee25a6e7ca5b0a4bfe3466f2f7f36f764e2d0df2c7d7eaacf89ff5f695e" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;}">Status</a></li>
         <li class="mr-3 mr-lg-0"><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="b0e8f3f0059a7c7a251ea59dbfa0a7046745ab5ab8d0b8a4ee7628c29a6f0daf" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="bcbfd3811818ceba65a2fae404bd89af5583e068eadd0df17939a2140a0770bd" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="2dbf9011e1fdf256cbed5892fd1f43d5756d81e8944aaa92d223b92dda13f114" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="3af64d38c44840b345d668a61c29710070e88901f868e177149db59982d9de02" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/README.md&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="570c4eecc10c32955b2c421852e51380f64d4ac485d50f9ee4eb9cffed20536d" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com?tags=dotcom-footer" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="d4cbaf3a8b161c98eb0bb456cdda3eb7dfe76a46bd372a2a421bd843a86ecefc" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;}">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="bf1658b0a479f34c48e79365681eb3ea5b377c6cefc2b0c0e9962af86b548f6b" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;}">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="a15b5cdfed9dc400481689cd380f38080775e691ed7e2d6b263ddb38cea14cb4" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;}">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="802ba73f0f39e1939775c92a4c03aeb9833591a578aaa5a6d674e746ce8a2c8f" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;}">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/pranav2901/Data-Science-with-Python/blob/main/hc.py&quot;,&quot;user_id&quot;:69752150}}" data-hydro-click-hmac="3fab5f4ed465ef800ad45e0300de432efb5e96a52e571b38776c828d32febb2b" data-analytics-event="{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;}">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>
